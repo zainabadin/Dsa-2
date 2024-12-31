@@ -1,0 +1,7 @@
+﻿  List.cpp
+  main.cpp
+D:\ISRAR KHAN\New folder\DSA_2\Exercise 3 (List Traversal based Utility Functions)\Exercise 3 (List Traversal based Utility Functions)\main.cpp(80,17): error C2039: 'travers': is not a member of 'List'
+D:\ISRAR KHAN\New folder\DSA_2\Exercise 3 (List Traversal based Utility Functions)\Exercise 3 (List Traversal based Utility Functions)\List.h(4,7): message : see declaration of 'List'
+D:\ISRAR KHAN\New folder\DSA_2\Exercise 3 (List Traversal based Utility Functions)\Exercise 3 (List Traversal based Utility Functions)\main.cpp(69,12): fatal  error C1075: '{': no matching token found
+  node.cpp
+  Generating Code...
